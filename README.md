@@ -4,7 +4,7 @@
 #### with a background in Social Science, Social Research and Market Research
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-m-a-mo&theme=light" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=i-m-a-mo&theme=light" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=i-m-a-mo&theme=light" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-m-a-mo&label=Profile%20views&color=0e75b6&style=flat" alt="i-m-a-mo" /> </p>
