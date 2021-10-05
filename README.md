@@ -1,7 +1,7 @@
-### Hi there, I'm Monique 👋
+<h3 align= "left">Hi there, I'm Monique 👋</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-m-a-mo&label=Profile%20views&color=0e75b6&style=flat" alt="i-m-a-mo" /> </p>
-### I'm a Data Scientist from Berlin, Germany
-#### with a background in Social Science, Social Research and Market Research
+<h3 align= "left"> I'm a Data Scientist from Berlin, Germany</h3>
+<h4 align= "left"> with a background in Social Science, Social Research and Market Research</h4>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-m-a-mo&show_icons=true&locale=en&layout=compact" alt="i-m-a-mo" /></p>
 
