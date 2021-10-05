@@ -3,7 +3,7 @@
 ### I'm a Data Scientist located in Berlin, Germany
 #### with a background in Social Science, Social Research and Market Research
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-m-a-mo&theme=dark" />
 
 
 
