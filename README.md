@@ -1,6 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Monique 👋
+
+## I'm a Data Scientist with a background in Social Science, Social Research and Market Research
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 <!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: ...
+-->
+
+<!--
+FOR LATER MAYBE
 **i-m-a-mo/i-m-a-mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
