@@ -1,5 +1,5 @@
 <h3 align= "left">Hi there, I'm Monique 👋
-<span style="float:right;"> <img src="https://komarev.com/ghpvc/?username=i-m-a-mo&label=Profile%20views&color=0e75b6&style=flat" alt="i-m-a-mo" /> </span></h3>
+<span style="right;"> <img src="https://komarev.com/ghpvc/?username=i-m-a-mo&label=Profile%20views&color=0e75b6&style=flat" alt="i-m-a-mo" /> </span></h3>
 <h3 align= "left"> I'm a Data Scientist from Berlin, Germany</h3>
 <h4 align= "left"> with a background in Social Science, Social Research and Market Research</h4>
 
