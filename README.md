@@ -4,6 +4,7 @@
 #### with a background in Social Science, Social Research and Market Research
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-m-a-mo&theme=light" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-m-a-mo&theme=light" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=i-m-a-mo&theme=light" />
 
 
