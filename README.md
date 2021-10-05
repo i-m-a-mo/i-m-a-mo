@@ -1,6 +1,7 @@
 ### Hi there, I'm Monique 👋
 
-## I'm a Data Scientist with a background in Social Science, Social Research and Market Research
+### I'm a Data Scientist located in Berlin, Germany
+#### with a background in Social Science, Social Research and Market Research
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
