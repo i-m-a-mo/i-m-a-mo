@@ -7,6 +7,13 @@ Having previously worked as a data analyst in the market research sector I have 
 
 I enjoy travelling and exploring new cultures, having lived, studied and worked in Norway and Australia. At home I like to stay active and try out new things.</p>
 
+
+<!--
+## Examples of Work
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+-->
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-m-a-mo&show_icons=true&locale=en&layout=compact" alt="i-m-a-mo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-m-a-mo&show_icons=true&locale=en" alt="i-m-a-mo" /></p>
@@ -19,7 +26,7 @@ I enjoy travelling and exploring new cultures, having lived, studied and worked 
 <a href="https://twitter.com/mimamoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mimamoni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/monique-huebsch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monique-huebsch" height="30" width="40" /></a>
 <a href="https://kaggle.com/moniquehbsch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="moniquehbsch" height="30" width="40" /></a> 
-  <a href="https://instagram.com/i.m.a.mo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.m.a.mo" height="30" width="40" /></a>
+<a href="https://instagram.com/i.m.a.mo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.m.a.mo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
