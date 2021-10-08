@@ -11,15 +11,13 @@ I enjoy travelling and exploring new cultures, having lived, studied and worked 
 <!--
 ## Examples of Work
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
--->
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-m-a-mo&show_icons=true&locale=en&layout=compact" alt="i-m-a-mo" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-m-a-mo&show_icons=true&locale=en" alt="i-m-a-mo" /></p>
+-->
 
-
-
+[![i-m-a-mo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=i-m-a-mo&layout=compact)](https://github.com/i-m-a-mo/github-readme-stats)
+[![i-m-a-mo's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-m-a-mo)](https://github.com/i-m-a-mo/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
